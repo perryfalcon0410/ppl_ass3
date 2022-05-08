@@ -1,0 +1,8 @@
+
+        Class __CCDeSua__ {
+            Var a: Int = 12.e23;
+            method_Kokomi() {
+                Self.a = 0x333A;
+            }
+        }
+        

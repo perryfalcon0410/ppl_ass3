@@ -1,0 +1,19 @@
+
+        Class Program{
+            Val a: Int = 0;
+            main(){
+                Var var1:String = "em met khi code luc 3h sang";
+            }
+            foo(){
+                Return True;
+            }
+        }
+        Class Vehicle{
+            run(){
+                Self.playing = True;
+            }
+            stop(){
+                Self.swimming = False;
+            }
+        }
+        

@@ -1,0 +1,11 @@
+
+        Class Program{
+            main(a: Int) {
+                If (a == convert.toInt("dream")) {
+                    Change.invoke();
+                } Elseif (a == 2) {
+                    Girlfriend.add();
+                }
+            }
+        }
+        Class MLP {}

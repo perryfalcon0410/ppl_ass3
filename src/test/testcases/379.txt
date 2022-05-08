@@ -1,0 +1,13 @@
+
+        Class Program{
+            Val a: Int = 0;
+            longtime(){
+                Var var1: my_class = 1;
+            }
+            ago(){
+                Return True;
+                a = a[2][3][4];
+            }
+        }
+        Class LA0610 {}
+        Class LT2711 {}

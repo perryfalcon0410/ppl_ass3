@@ -1,0 +1,5 @@
+
+        Class dem_ngay_testcase{
+            Constructor() {dem_nay.aDestructor();}
+            Destructor() {}
+        }

@@ -1,0 +1,12 @@
+
+        Class Animal {
+            Var __id__: String;
+        }
+
+        Class Dog {
+            bark() {
+                Foreach (ss In 2 .. 4) {
+                    Out.print();
+                }}
+        }
+        

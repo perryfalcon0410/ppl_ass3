@@ -1,0 +1,8 @@
+
+        Class ooHOMDMd {
+            C_uxURW5_zJ4g() {
+                a[b[1]][c][a.foo()] = 1;
+            }
+            Var FeNMBk2v_: Float;
+        }
+        

@@ -1,0 +1,10 @@
+
+        Class Program{
+            Program() {
+                Var a: Hey;
+                Var b: Pickupthephone;
+                Var a: Hey = nicetosuckyou;
+            }
+        }
+        Class Hey {}
+        Class Pickupthephone {}

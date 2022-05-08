@@ -1,0 +1,5 @@
+
+        Class homnay_lam_dc_30test{
+            Var a: Int = "sap duoc nghi roi";
+            method(get: Int) {}
+        }

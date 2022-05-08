@@ -1,0 +1,16 @@
+
+        Class A{
+            Constructor(ele, acc: String; x, y: Int){
+               If(True){
+
+               } Else {
+
+               }
+            }
+            ## Skip this comment ##            
+
+            a(super, hero, viet_nguyen: Int){}
+
+            Destructor(){}
+        }
+        

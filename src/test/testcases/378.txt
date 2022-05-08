@@ -1,0 +1,13 @@
+
+        Class Program{
+            Val a: Int = 0;
+            oldschool(){
+                Var var1: my_class;
+            }
+            nike(){
+                Return True;
+                a = Array(Array(2121, 2112));
+            }
+        }
+        Class Hyndai {}
+        Class Toyota {}

@@ -1,0 +1,13 @@
+
+        Class __CCDeSua__ {
+            method() {
+                a = Yashahime.parent1;
+                b = Yashahime::$parent2;
+            }
+        }
+
+        Class Yashahime {
+            Var $num_of_hime: Int = 3;
+            Var parent1, parent2: String = "Inuyasha", "Inusaga";
+        }
+        

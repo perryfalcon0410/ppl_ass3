@@ -1,0 +1,13 @@
+
+        Class Program{
+            Val a: Int = 0;
+            main(){
+                Var var1:String = "Spring di ngu that tuyet voi";
+            }
+            foo(){
+                Return True;
+                a = New Bugggggg();
+                Buggggggg = Null;
+            }
+        }
+        

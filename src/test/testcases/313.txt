@@ -1,0 +1,1 @@
+Class Rectangle {Var length: Int;}

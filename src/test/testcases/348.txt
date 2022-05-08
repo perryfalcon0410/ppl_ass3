@@ -1,0 +1,10 @@
+
+        Class __Right__ {
+            method() {
+                Foreach (asd In Rz >= Izj::$AL() .. R6F * Ik) {
+                    vFCy = N >= Izoj::$J7kbL();
+                }
+                Return Nonsense;
+            }
+        }
+        

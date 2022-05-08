@@ -1,0 +1,12 @@
+
+        Class Program{
+            Val a: Int = 0;
+            main(){
+                a[23] = 233;
+            }
+            foo(){
+                Return True;
+                a = Array(Array(2121, 2112));
+            }
+        }
+        

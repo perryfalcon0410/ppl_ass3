@@ -1,0 +1,8 @@
+
+            Class VioletEvergarden{
+                main(){
+                    Dying.out(a[i+2022-449/1212][i][j][h][k]);
+                    test_26am = (1*1223.e100 * 3).getYou();
+                }
+            }
+            

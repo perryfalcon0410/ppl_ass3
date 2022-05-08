@@ -1,0 +1,6 @@
+
+        Class dem_ngay_testcase{
+            Var a: String = "day la 1 bai hat khong buon";
+            Var b: String = "day la 1 bai hat rat rat vui";
+            Var c: String = "";
+        }

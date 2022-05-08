@@ -1,0 +1,4 @@
+
+        Class dem_ngay_testcase{
+            Var a: Int = !!!!!!!!!!!!!!!!!1;
+        }

@@ -1,0 +1,23 @@
+
+        Class Array_decl {
+            Var arr: Array[Int, 1000];
+            Var len: Int = 0;
+
+            add(value: Int) {
+                Self.arr[Self.len] = value;
+                Self.len = Self.len + 1;
+            }
+
+            sort_2() {
+                Foreach (i In 0 .. Self.len) {
+                    Var pos: Int = 0;
+                    Foreach (j In Self.len .. i + 1 By -1) {
+                        If ((Self.arr[i] < Self.arr[j]) && (Self.arr[i - 1] < Self.arr[j])) {
+                            pos = j;
+                        }
+                    }
+                    lib.swap(Self.arr[i], Self.arr[pos]);
+                }
+            }
+        }
+        

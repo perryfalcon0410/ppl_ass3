@@ -1,0 +1,19 @@
+
+        Class last_test {
+            Var Min: Girl = "A penguin";
+            dress_in_JK() {
+                Return perfect;
+            }
+            sleep(hour: Float) {
+                If (hour < 2) {
+                    hour = 24;
+                }
+            }
+            luot_tiktok() {}
+            luot_shopee() {}
+            doi_doi() {}
+            scary(a: Int) {
+                a = 0;
+            }
+        }
+        

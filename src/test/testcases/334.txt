@@ -1,0 +1,5 @@
+
+        Class Program {
+            Var $a: Array[String, 5] = Array("sd","sd","ls","kl","ew");
+        }
+        

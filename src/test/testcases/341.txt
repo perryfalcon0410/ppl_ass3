@@ -1,0 +1,11 @@
+
+        Class Program {
+            method() {
+                If 1 == 2 {
+                    Return True;
+                } Elseif (2 == 3) {
+                    Return False;
+                } Else {Return Null;}
+            }
+        }
+        

@@ -1,0 +1,18 @@
+
+        Class Program{
+            main(a: Int) {
+                If (a == convert.toInt("dream")) {
+                    Change.invoke();
+                } Elseif (a == 2) {
+                    Girlfriend.add();
+                } Else {
+                    sweaty_peach = a;
+                    Return you;
+                }
+            }
+        }
+        Class MLP {
+            khongemthiaimain() {
+                Return Dell;
+            }
+        }

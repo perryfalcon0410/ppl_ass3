@@ -1,0 +1,9 @@
+
+        Class Program {
+            method() {
+                If 1 == 2 {
+                    Return True;
+                }
+            }
+        }
+        

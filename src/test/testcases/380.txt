@@ -1,0 +1,8 @@
+
+        Class Program{
+            Program() {
+                Var a: Str = aString.toString();
+            }
+        }
+        Class MiniMainiBurn {}
+        Class Annie {}

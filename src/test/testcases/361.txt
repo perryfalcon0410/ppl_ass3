@@ -1,0 +1,7 @@
+
+        Class as {
+            PPL___(){
+                methoda = "a" +. "aaaa" == "d22222";
+            }
+        }
+        

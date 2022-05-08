@@ -1,0 +1,5 @@
+
+        Class Program {
+            Var $a: Array[Array[Array[Int, 1], 1], 2] = Array(Array(Array(1)), Array(Array(1)));
+        }
+        

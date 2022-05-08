@@ -1,0 +1,17 @@
+
+        Class __Right__ {
+            method() {
+                If (1 == -2) {
+                    Return asd;
+                }
+                Elseif (2 == 3) {
+                    Break;
+                    Continue;
+                    Return 0;
+                }
+                Else {
+                    Return 233;
+                }
+            }
+        }
+        

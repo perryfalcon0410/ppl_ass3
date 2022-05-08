@@ -1,0 +1,8 @@
+
+        Class Program {
+            Var $a: String = "haizz";
+            method() {
+                Return a;
+            }
+        }
+        

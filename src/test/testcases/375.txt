@@ -1,0 +1,13 @@
+
+        Class Program{
+            Val a: Int = 0;
+            main(){
+                Var var1:String = "lam ve sinh nha";
+            }
+            foo(){
+                Return True;
+                Break;
+                Return aa;
+            }
+        }
+        

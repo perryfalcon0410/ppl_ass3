@@ -1,0 +1,4 @@
+
+        Class dem_ngay_testcase{
+            Var a: String = "day la 1 bai hat vui";
+        }

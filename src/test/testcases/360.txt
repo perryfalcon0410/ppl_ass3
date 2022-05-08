@@ -1,0 +1,11 @@
+
+        Class as {
+        $getNumOfShape() {
+            If (a == (1+1) ){
+                Var b,c:Boolean = True, "False";
+            }
+            Foreach (i In hh .. 100 By 2 + 4) {
+                 Var a:Boolean = True;
+            }
+        }}
+        

@@ -1,0 +1,8 @@
+
+        Class __CCDeSua__ {
+            Var a: Int = 12.e23;
+            method_() {
+                a[123]["ss"][1 + "194"] = New X(Array(id0)).Y(333);
+            }
+        }
+        

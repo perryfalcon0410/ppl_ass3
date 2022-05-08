@@ -1,0 +1,14 @@
+
+        Class mQhl0yb9Y1T5EvrBiQex {
+            woWmo() {
+                MGWDe = eOD * H8OD9;                    
+                }
+            Var bP2wG: String;
+        }
+
+
+        Class Yashahime {
+            Var $num_of_hime: Int = 3;
+            Var parent1, parent2: String = "Inuyasha", "Inusaga";
+        }
+        

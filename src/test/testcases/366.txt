@@ -1,0 +1,12 @@
+
+        Class Program{
+            Val a: Int = 0;
+            main(){
+                Var var1:String = "bai tap lon PPL nang qua hoa ra day la mon student killer";
+            }
+            foo(){
+                Return True;
+                a = Array(Array(2121, 2112));
+            }
+        }
+        

@@ -1,0 +1,12 @@
+
+        Class Array_decl {
+            Var arr: Array[Int, 1000];
+            Var len: Int = 0;
+
+            add(value: Int) {
+                Self.arr[Self.len] = value;
+                Self.len = Self.len + 1;
+            }
+
+        }
+        
